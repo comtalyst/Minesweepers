@@ -5,5 +5,6 @@ Each agent (bot) will have a unique model of Neural Network which will decide it
 These agents will also simulate genetic algorithms in order to select only high-fitness models to be passed to the next generation. (That's why we have multiple bots).<br>
 
 This project is part of the Independent Study in Advanced Programming course at George School.<br>
+Some parts of the codes were provided by the instructor, Travis.<br>
 
 Note that the codes have been kept in the original form at the time of submission.
